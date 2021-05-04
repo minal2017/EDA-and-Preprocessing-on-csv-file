@@ -1,0 +1,2 @@
+# EDA-and-Preprocessing-on-csv-file
+EDA is Exploratory Data Analysis is an approach/philosophy for data analysis that employs a variety of techniques.The following EDA steps are preform to make are data more effective .1.collect the data.2.Undustand the data.3.Exploring and cleaning data.4.handling missing value.5. handling outlier.6.handling skewness.7.handling catagorical data.8.scaling the data.9.Feature Engineering.
